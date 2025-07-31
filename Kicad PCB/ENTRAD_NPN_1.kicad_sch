@@ -1491,7 +1491,7 @@
 		)
 		(uuid "efd528ea-8412-429d-bfc8-943af2bde657")
 	)
-	(hierarchical_label "NPN_IN"
+	(hierarchical_label "ENTRADA_NPN"
 		(shape input)
 		(at 110.49 62.23 180)
 		(effects
@@ -1502,7 +1502,7 @@
 		)
 		(uuid "22516eab-0036-4de5-a299-b93e20568f2b")
 	)
-	(hierarchical_label "NPN_OUT"
+	(hierarchical_label "SALIDA_NPN"
 		(shape input)
 		(at 149.86 85.09 0)
 		(effects
